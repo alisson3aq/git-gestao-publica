@@ -1,4 +1,4 @@
-# git-gestao-publica
+
 Sistema de Gestão Pública Open-Source
 =========================================
 
