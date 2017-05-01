@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"Scanner"
+			],
+			[
+				"RE",
+				"required\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"btn",
+				"btnExcluir"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"veri",
+				"verificaProtocolo"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"col_",
+				"col_num"
+			],
+			[
+				"col",
+				"col_num"
+			],
+			[
+				"bu",
+				"button\tTag"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"situa",
+				"situacao_processo"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Phonegap/MyReader/src/pages/home/home.html",
+			"settings":
+			{
+				"buffer_size": 145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Phonegap/MyReader/src/pages/home/home.ts",
+			"settings":
+			{
+				"buffer_size": 551,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Sites/sisgestao",
+		"/C/Sites/sisgestao/application"
+	],
+	"file_history":
+	[
+		"/C/Phonegap/MyReader/src/pages/home/home.scss",
+		"/C/Sites/sisgestao/application/controllers/Protocolo.php",
+		"/C/Sites/sisgestao/application/models/Protocolo_model.php",
+		"/C/Sites/sisgestao/application/views/protocolo/capa.php",
+		"/C/Users/fsena/Desktop/IF/2º período/POO/códigos/HelloWorld.java",
+		"/C/Users/fsena/Desktop/IF/2º período/POO/códigos/Soma.java",
+		"/C/Sites/sisgestao/application/controllers/Sistema.php",
+		"/C/Sites/sisgestao/application/views/sistema/usuarios_editar.php",
+		"/C/Sites/sisgestao/application/models/Usuarios_model.php",
+		"/C/Ricelly/linux/codigo.cpp",
+		"/C/Sites/sisgestao/application/views/setores/editar.php",
+		"/C/Sites/sisgestao/application/views/sistema/index.php",
+		"/C/Sites/sisgestao/application/views/sistema/usuarios.php",
+		"/C/Sites/sisgestao/assets/js/codigo.js",
+		"/C/Sites/sisgestao/application/views/setores/controle.php",
+		"/C/Sites/sisgestao/application/views/setores/index.php",
+		"/C/Sites/sisgestao/application/views/setores/cadastro.php",
+		"/C/Sites/sisgestao/application/controllers/Setores.php",
+		"/C/Sites/sisgestao/application/views/protocolo/processos_index.php",
+		"/C/Sites/sisgestao/application/views/protocolo/processos_controle.php",
+		"/C/Sites/sisgestao/application/views/protocolo/documentos_index.php",
+		"/C/Sites/sisgestao/application/models/Documentos_model.php",
+		"/C/Sites/sisgestao/application/views/protocolo/documentos_controle.php",
+		"/C/Sites/sisgestao/application/views/sistema/controle.php",
+		"/C/Users/fsena/Desktop/PROVA WEB/css/estilo.css",
+		"/C/Sites/sisgestao/application/views/sistema/usuarios_cadastro.php",
+		"/C/Sites/sisgestao/application/views/protocolo/visualiza.php",
+		"/C/Sites/sisgestao/application/views/protocolo/atualiza.php",
+		"/C/Sites/sisgestao/application/views/protocolo/encaminhar.php",
+		"/C/Sites/sisgestao/application/views/protocolo/cadastro.php",
+		"/C/Sites/sisgestao/application/views/include/footer.php",
+		"/C/Sites/sismaconaria2/application/controllers/cadastro/Macons.php",
+		"/C/Sites/sismaconaria2/application/models/Macons_model.php",
+		"/C/Sites/sisgestao/application/config/autoload.php",
+		"/C/Users/fsena/Desktop/IF/webdesign/JAVASCRIPT/jquery/js/script.js",
+		"/C/Users/fsena/Desktop/IF/webdesign/JAVASCRIPT/jquery/compras.html",
+		"/C/Users/fsena/Desktop/compras.html",
+		"/C/Users/fsena/Desktop/imc.html",
+		"/C/Sites/sisgestao/application/views/include/header.php",
+		"/C/Sites/camara/application/controllers/documentos.php",
+		"/C/Sites/sisgestao/application/controllers/Login.php",
+		"/C/Sites/camara/application/views/documentos/cadastro.php",
+		"/C/Sites/sisgestao/application/models/Setores_model.php",
+		"/C/Sites/camara/application/views/vereadores/controle.php",
+		"/C/Sites/sisgestao/application/controllers/Painel.php",
+		"/C/Sites/sisgestao/application/views/painel.php",
+		"/C/Sites/sisgestao/application/views/include/menu_sistema.php",
+		"/C/Sites/camara/application/config/database.php",
+		"/C/Sites/sisgestao/application/libraries/Listagem.php",
+		"/C/Sites/sisgestao/application/helpers/protocolo_helper.php",
+		"/C/Sites/sisgestao/application/helpers/documentos_helper.php",
+		"/C/Sites/sisgestao/application/views/protocolo/consulta_relatorio.php",
+		"/C/Sites/sisgestao/application/views/include/menu_protocolo.php",
+		"/C/Sites/sisgestao/application/views/protocolo/imprime_relatorio.php",
+		"/C/Sites/sisgestao/application/views/protocolo/consulta.php",
+		"/C/Sites/sisgestao/application/views/protocolo/listagem.php",
+		"/C/Sites/sisgestao/application/views/protocolo/consulta_listagem.php",
+		"/C/Sites/sisgestao/application/views/login.php",
+		"/C/Sites/sisgestao/application/config/config.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"required=\"required\"",
+			"setores",
+			"Não foi possível inserir os dados.",
+			"index",
+			"imprim",
+			"listagem_geral",
+			"relatorio",
+			"  <li class=\"dropdown\">\n                  <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Relatórios <span class=\"caret\"></span></a>\n                  <ul class=\"dropdown-menu\">\n                   <li><a href=\"<?php echo base_url(); ?>protocolo/relatorio/1\"><i class=\"fa fa-file-text-o\" aria-hidden=\"true\"></i>  &nbspListagem Geral</a></li>\n                  </ul>\n                  </li>",
+			" <li class=\"dropdown\">\n                <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Relatórios <span class=\"caret\"></span></a>",
+			"<?php if($this->session->userdata('tipo_usuario') == '1'){ ?>\n            \n                <li role=\"separator\" class=\"divider\"></li>\n\n                <li><a href=\"<?php echo base_url(); ?>protocolo/setores\"><i class=\"fa fa-folder-open-o\" aria-hidden=\"true\"></i>  &nbspDepartamentos/Setores </a></li>\n\n            <?php } ?>",
+			"cad_setores",
+			"setores",
+			"\t\t$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cad_usuario"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Phonegap/MyReader/src/pages/home/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Phonegap/MyReader/src/pages/home/home.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								550,
+								550
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sisgestao.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
